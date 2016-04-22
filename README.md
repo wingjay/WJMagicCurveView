@@ -6,6 +6,8 @@ By setting several parameters simply, You'll get a fancy Magic Curve immediately
 # Let's see what it is
 ![First](https://wingjay.com/img/%E6%9C%89%E8%B6%A3%E7%9A%84%E6%9B%B2%E7%BA%BF%E5%9C%A8Android%E4%B8%8A%E7%9A%84%E5%AE%9E%E7%8E%B0/ring.gif)
 
+![Second](https://camo.githubusercontent.com/f66e0343a7adc7309b86ed3ccfd5e2c72f144fa7/687474703a2f2f7777312e73696e61696d672e636e2f6d773639302f3765663031666361677731663335686c323230777967323061743061356835652e676966)
+
 # How it works
 By setting eight parameters, WJMagicCurveView will draw a beautiful curve based on a math function.
 

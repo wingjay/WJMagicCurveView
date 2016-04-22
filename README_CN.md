@@ -113,6 +113,19 @@ void mousePressed(){
 我们已经深深反省，决定深夜开车！
 
 
-####关于android-cjj
+#### 关于android-cjj
 如果你喜欢这个东东的话，可以关注[cjj github](https://github.com/android-cjj) ,也可以关注微博[Android_cJJ](http://weibo.com/chenjijun2011/).
 
+
+#### 项目作者 - wingjay
+![](http://tp3.sinaimg.cn/1625892654/180/5739331233/1)
+
+如果你对我的开源项目感兴趣，可以关注我： https://github.com/wingjay
+
+博客: https://wingjay.com
+
+微博: http://weibo.com/u/1625892654
+
+随时可以通过这个邮箱找到我 <mailto:yinjiesh@126.com>
+
+谢谢!

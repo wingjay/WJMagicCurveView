@@ -1,1 +1,1 @@
-include ':app', ':wjmagiccurveview'
+include ':app', ':lib'

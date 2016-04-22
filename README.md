@@ -1,5 +1,5 @@
 # WJMagicCurveView
-By simply setting several parameters, You'll get a fancy magic curve immediately.
+By setting several parameters simply, You'll get a fancy Magic Curve immediately.
 
 # Let's see what it is
 ![First](https://wingjay.com/img/%E6%9C%89%E8%B6%A3%E7%9A%84%E6%9B%B2%E7%BA%BF%E5%9C%A8Android%E4%B8%8A%E7%9A%84%E5%AE%9E%E7%8E%B0/ring.gif)
@@ -55,6 +55,7 @@ for empty fields, use -1 as default value.
 
 ###Reach me - wingjay
 ![](http://tp3.sinaimg.cn/1625892654/180/5739331233/1)
+
 You can get information about me and reach me in my github page: https://github.com/wingjay
 
 Blog: https://wingjay.com

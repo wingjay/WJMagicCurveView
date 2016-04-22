@@ -1,4 +1,4 @@
-package com.wingjay.wjmagiccurveviewdemo;
+package com.wingjay.wjmagiccurvedemo;
 
 import org.junit.Test;
 

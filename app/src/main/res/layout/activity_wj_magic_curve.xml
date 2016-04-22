@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.wingjay.wjmagiccurveviewdemo.MainActivity">
+    >
 
     <LinearLayout
         android:layout_width="match_parent"
@@ -137,7 +137,7 @@
             android:textAllCaps="false"
             />
 
-        <com.wingjay.wjmagiccurveviewdemo.WJMagicCurveView
+        <com.wingjay.wjmagiccurveview.WJMagicCurveView
             android:id="@+id/wj_magic_curve_view"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"/>

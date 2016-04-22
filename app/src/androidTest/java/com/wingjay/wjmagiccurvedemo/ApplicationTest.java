@@ -1,4 +1,4 @@
-package com.wingjay.wjmagiccurveviewdemo;
+package com.wingjay.wjmagiccurvedemo;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

@@ -4,7 +4,7 @@
               android:layout_width="match_parent"
               android:layout_height="match_parent">
 
-    <com.wingjay.wjmagiccurveviewdemo.CJJArtLineView
+    <com.wingjay.wjmagiccurveview.CJJArtLineView
         android:id="@+id/art"
         android:layout_width="match_parent"
         android:layout_height="match_parent"/>

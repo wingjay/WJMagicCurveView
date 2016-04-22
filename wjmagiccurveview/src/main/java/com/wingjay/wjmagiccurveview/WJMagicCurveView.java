@@ -1,4 +1,4 @@
-package com.wingjay.wjmagiccurveviewdemo;
+package com.wingjay.wjmagiccurveview;
 
 import android.animation.TypeEvaluator;
 import android.animation.ValueAnimator;
@@ -297,10 +297,14 @@ public class WJMagicCurveView extends View {
         LEAF(1, 300, 300, 300, 1, 10000, -1, -1),
         AIRSHIP(300, 20, 150, 150, 50, -1, -1, -1);
 
-        float radiusAX; float radiusAY; float radiusBX; float radiusBY;
-        int speedOuterPoint; int speedInnerPoint;
-        int loopTotalCount;
-        int durationSec;
+        public float radiusAX;
+        public float radiusAY;
+        public float radiusBX;
+        public float radiusBY;
+        public int speedOuterPoint;
+        public int speedInnerPoint;
+        public int loopTotalCount;
+        public int durationSec;
 
         /**
          * if param is -1, then it means use the default value.

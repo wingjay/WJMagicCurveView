@@ -1,12 +1,15 @@
-package com.wingjay.wjmagiccurveviewdemo;
+package com.wingjay.wjmagiccurvedemo;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.view.Menu;
 import android.view.MenuItem;
 
+import com.wingjay.wjmagiccurveview.CJJArtLineView;
+
 /**
  * Created by wingjay on 4/22/16.
+ * You can choose in top-right menu for different existing curve.
  */
 public class CJJArtLineActivity extends AppCompatActivity {
     private CJJArtLineView mArtLine;
@@ -127,3 +130,4 @@ public class CJJArtLineActivity extends AppCompatActivity {
     }
 
 }
+

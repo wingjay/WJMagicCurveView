@@ -1,4 +1,4 @@
-package com.wingjay.wjmagiccurveviewdemo;
+package com.wingjay.wjmagiccurveview;
 
 import android.animation.ValueAnimator;
 import android.content.Context;
@@ -222,4 +222,3 @@ public class CJJArtLineView extends View {
     }
 
 }
-

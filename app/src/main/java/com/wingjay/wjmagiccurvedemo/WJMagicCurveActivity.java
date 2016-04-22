@@ -1,4 +1,4 @@
-package com.wingjay.wjmagiccurveviewdemo;
+package com.wingjay.wjmagiccurvedemo;
 
 import android.content.Intent;
 import android.net.Uri;
@@ -15,8 +15,11 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
 
+import com.wingjay.wjmagiccurveview.WJMagicCurveView;
+
 /**
  * Created by wingjay on 4/22/16.
+ * You can choose in top-right menu for different existing curve.
  */
 public class WJMagicCurveActivity extends AppCompatActivity {
     private EditText radiusAX;

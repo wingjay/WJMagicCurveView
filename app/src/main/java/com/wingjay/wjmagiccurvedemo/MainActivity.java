@@ -1,4 +1,4 @@
-package com.wingjay.wjmagiccurveviewdemo;
+package com.wingjay.wjmagiccurvedemo;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -37,3 +37,4 @@ public class MainActivity extends AppCompatActivity {
 
     }
 }
+

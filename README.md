@@ -43,7 +43,9 @@ wjMagicCurveView.destory();
 ```
 ```java
 // Customize your own curve here
-I create a enum called WJMagicCurveViewParameters and your can create your own WJMagicCurveViewParameters with eight parameters, for empty fields, use -1.
+I create a enum called WJMagicCurveViewParameters, 
+You can create your own WJMagicCurveViewParameters with eight parameters,
+for empty fields, use -1.
 ```
 
 # Related resource

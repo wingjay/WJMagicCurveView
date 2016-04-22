@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/default_key"
+          android:title="default(默认)"
+          app:showAsAction="never"/>
+
+    <item android:id="@+id/ring"
+          android:title="ring(戒指)"
+          app:showAsAction="never"/>
+
+    <item android:id="@+id/diamond"
+          android:title="diamond(钻石)"
+          app:showAsAction="never"/>
+
+    <item android:id="@+id/pyramid"
+          android:title="pyramid(金字塔)"
+          app:showAsAction="never"/>
+
+    <item android:id="@+id/shell"
+          android:title="Shell(贝壳)"
+          app:showAsAction="never"/>
+
+    <item android:id="@+id/flower"
+          android:title="flower(花)"
+          app:showAsAction="never"/>
+
+    <item android:id="@+id/leaf"
+          android:title="leaf(树叶)"
+          app:showAsAction="never"/>
+
+    <item android:id="@+id/airship"
+          android:title="airship(飞船)"
+          app:showAsAction="never"/>
+</menu>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/art_line_1"
+          android:title="Line 1"
+          app:showAsAction="never"/>
+
+    <item android:id="@+id/art_line_2"
+          android:title="Line 2"
+          app:showAsAction="never"/>
+
+    <item android:id="@+id/art_line_3"
+          android:title="Line 3"
+          app:showAsAction="never"/>
+
+    <item android:id="@+id/art_line_4"
+          android:title="Line 4"
+          app:showAsAction="never"/>
+
+    <item android:id="@+id/art_line_5"
+          android:title="Line 5"
+          app:showAsAction="never"/>
+
+    <item android:id="@+id/art_line_6"
+          android:title="Line 6"
+          app:showAsAction="never"/>
+
+</menu>

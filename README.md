@@ -15,42 +15,42 @@ By setting several parameters simply, You'll get a fancy Magic Curve immediately
   <tbody>
     <tr>
       <td>1</td>
-      <td><img src="https://camo.githubusercontent.com/f66e0343a7adc7309b86ed3ccfd5e2c72f144fa7/687474703a2f2f7777312e73696e61696d672e636e2f6d773639302f3765663031666361677731663335686c323230777967323061743061356835652e676966" width="500"></td>
+      <td><img src="https://camo.githubusercontent.com/f66e0343a7adc7309b86ed3ccfd5e2c72f144fa7/687474703a2f2f7777312e73696e61696d672e636e2f6d773639302f3765663031666361677731663335686c323230777967323061743061356835652e676966" width="300"></td>
     </tr>
     <tr>
       <td>2</td>
-      <td><img src="https://camo.githubusercontent.com/d9eae67c303601789f8ce14e694047618d0ab9e7/687474703a2f2f7777312e73696e61696d672e636e2f6d773639302f3765663031666361677731663335686c333065763067323061743061356e39362e676966" width="500"></td>
+      <td><img src="https://camo.githubusercontent.com/d9eae67c303601789f8ce14e694047618d0ab9e7/687474703a2f2f7777312e73696e61696d672e636e2f6d773639302f3765663031666361677731663335686c333065763067323061743061356e39362e676966" width="300"></td>
     </tr>
     <tr>
       <td>3</td>
-      <td><img src="https://camo.githubusercontent.com/8029c08f06a2402d78862c9d1d3245ed478a2df5/687474703a2f2f7777332e73696e61696d672e636e2f6d773639302f3765663031666361677731663335686c336f6c383367323061743061353131312e676966" width="500"></td>
+      <td><img src="https://camo.githubusercontent.com/8029c08f06a2402d78862c9d1d3245ed478a2df5/687474703a2f2f7777332e73696e61696d672e636e2f6d773639302f3765663031666361677731663335686c336f6c383367323061743061353131312e676966" width="300"></td>
     </tr>
     <tr>
       <td>4</td>
-      <td><img src="https://camo.githubusercontent.com/46338cd26305a61f13aa7ddd1f55d3f51705abb0/687474703a2f2f7777332e73696e61696d672e636e2f6d773639302f3765663031666361677731663335686c356f36686667323061743061356168622e676966" width="500"></td>
+      <td><img src="https://camo.githubusercontent.com/46338cd26305a61f13aa7ddd1f55d3f51705abb0/687474703a2f2f7777332e73696e61696d672e636e2f6d773639302f3765663031666361677731663335686c356f36686667323061743061356168622e676966" width="300"></td>
     </tr>
     <tr>
       <td>5</td>
-      <td><img src="https://camo.githubusercontent.com/80b98f800388ded00106762b3d58390087765f87/687474703a2f2f7777332e73696e61696d672e636e2f6d773639302f3765663031666361677731663335686b706c69346b6732306174306135716b632e676966" width="500"></td>
+      <td><img src="https://camo.githubusercontent.com/80b98f800388ded00106762b3d58390087765f87/687474703a2f2f7777332e73696e61696d672e636e2f6d773639302f3765663031666361677731663335686b706c69346b6732306174306135716b632e676966" width="300"></td>
     </tr>
   </tbody>
 </table>
 
 # How it works
-By setting eight parameters, WJMagicCurveView will draw a beautiful curve based on a math function.
+By setting `eight parameters` (Of course you don't have to set every because they all have default value), `WJMagicCurveView` will draw a beautiful curve based on a math function.
 
-First, we'll create two points and make them rotate in specified speed and specified radius revolving a same center;
-Second, whenever they reach a point during rotating, we'll draw a line connecting these two points;
+First, we'll create two points and make them `rotate` in specified `speed` and specified `radius` revolving a same center;
+Second, whenever they reach a point during rotating, we'll draw a `line connecting these two points`;
 Thirds, continue rotate and draw lines, Bingo! You're creating a new beautiful curve!
 
 # How to create your own curve
 We provide eight base parameters for normal users and more for developers from code level. Here are explaintion for these parameters:
 
-1. radiusAX、radiusAY:  A point is the outer rotating point, these two are the radius of A;
-2. radiusBX、radiusBY:  B point is the inner rotating point;
-3. speedOuterPoint、speedInnerPoint: the rotating speed for A & B;
-4. loopTotalCount: the loop count for these two rotating points;
-5. durationSeconds: the durationg speed for rotating.
+1. `radiusAX`、`radiusAY`:  A point is the outer rotating point, these two are the radius of A;
+2. `radiusBX`、`radiusBY`:  B point is the inner rotating point;
+3. `speedOuterPoint`、`speedInnerPoint`: the rotating speed for A & B;
+4. `loopTotalCount`: the loop count for these two rotating points;
+5. `durationSeconds`: the durationg speed for rotating.
 
 # Playable apk
 [Download it from here](https://github.com/wingjay/WJMagicCurveView/raw/master/demo.apk) and make a try!
@@ -58,7 +58,7 @@ We provide eight base parameters for normal users and more for developers from c
 # How to use it
 ```java
 WJMagicCurveView wjMagicCurveView = (WJMagicCurveView) findViewById(R.id.wj_magic_curve_view);
-// set parameters. of course it's not necessary to set every parameters because they all have default value
+// set parameters. of course it's not necessary to set all these parameters because they all have default value
 wjMagicCurveView.setRadius(radiusAX, radiusAY, radiusBX, radiusBY)
                 .setDurationSec(durationSeconds)
                 .setLoopTotalCount(loopTotalCount)

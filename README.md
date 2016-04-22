@@ -4,9 +4,37 @@ By setting several parameters simply, You'll get a fancy Magic Curve immediately
 [中文介绍，来自Android-CJJ同学](https://github.com/wingjay/WJMagicCurveView/blob/master/README_CN.md)
 
 # Let's see what it is
-![First](https://wingjay.com/img/%E6%9C%89%E8%B6%A3%E7%9A%84%E6%9B%B2%E7%BA%BF%E5%9C%A8Android%E4%B8%8A%E7%9A%84%E5%AE%9E%E7%8E%B0/ring.gif)
 
-![Second](https://camo.githubusercontent.com/f66e0343a7adc7309b86ed3ccfd5e2c72f144fa7/687474703a2f2f7777312e73696e61696d672e636e2f6d773639302f3765663031666361677731663335686c323230777967323061743061356835652e676966)
+<table>
+  <thead>
+    <tr>
+      <th>Order</th>
+      <th>Demo</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td><img src="https://camo.githubusercontent.com/d9eae67c303601789f8ce14e694047618d0ab9e7/687474703a2f2f7777312e73696e61696d672e636e2f6d773639302f3765663031666361677731663335686c333065763067323061743061356e39362e676966" width="500"></td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td><img src="https://camo.githubusercontent.com/f66e0343a7adc7309b86ed3ccfd5e2c72f144fa7/687474703a2f2f7777312e73696e61696d672e636e2f6d773639302f3765663031666361677731663335686c323230777967323061743061356835652e676966" width="500"></td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td><img src="https://camo.githubusercontent.com/8029c08f06a2402d78862c9d1d3245ed478a2df5/687474703a2f2f7777332e73696e61696d672e636e2f6d773639302f3765663031666361677731663335686c336f6c383367323061743061353131312e676966" width="500"></td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td><img src="https://camo.githubusercontent.com/46338cd26305a61f13aa7ddd1f55d3f51705abb0/687474703a2f2f7777332e73696e61696d672e636e2f6d773639302f3765663031666361677731663335686c356f36686667323061743061356168622e676966" width="500"></td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td><img src="https://camo.githubusercontent.com/80b98f800388ded00106762b3d58390087765f87/687474703a2f2f7777332e73696e61696d672e636e2f6d773639302f3765663031666361677731663335686b706c69346b6732306174306135716b632e676966" width="500"></td>
+    </tr>
+  </tbody>
+</table>
 
 # How it works
 By setting eight parameters, WJMagicCurveView will draw a beautiful curve based on a math function.
@@ -30,7 +58,7 @@ We provide eight base parameters for normal users and more for developers from c
 # How to use it
 ```java
 WJMagicCurveView wjMagicCurveView = (WJMagicCurveView) findViewById(R.id.wj_magic_curve_view);
-// set parameters. of course it's not necessary to set because they all have default value
+// set parameters. of course it's not necessary to set every parameters because they all have default value
 wjMagicCurveView.setRadius(radiusAX, radiusAY, radiusBX, radiusBY)
                 .setDurationSec(durationSeconds)
                 .setLoopTotalCount(loopTotalCount)
@@ -57,15 +85,6 @@ for empty fields, use -1 as default value.
 
 [Processing: 简单法则的魅力](http://mp.weixin.qq.com/s?__biz=MzA4NTc5MDU5OQ==&mid=411441608&idx=1&sn=5e846a882f58a7ba1b5312bdbeaafccf&scene=23&srcid=0120GiYhMXjmNDoN9MFQj7f5#rd)
 
-![](https://camo.githubusercontent.com/d9eae67c303601789f8ce14e694047618d0ab9e7/687474703a2f2f7777312e73696e61696d672e636e2f6d773639302f3765663031666361677731663335686c333065763067323061743061356e39362e676966)
-
-![](https://wingjay.com/img/%E6%9C%89%E8%B6%A3%E7%9A%84%E6%9B%B2%E7%BA%BF%E5%9C%A8Android%E4%B8%8A%E7%9A%84%E5%AE%9E%E7%8E%B0/3.png)
-
-![](https://camo.githubusercontent.com/8029c08f06a2402d78862c9d1d3245ed478a2df5/687474703a2f2f7777332e73696e61696d672e636e2f6d773639302f3765663031666361677731663335686c336f6c383367323061743061353131312e676966)
-
-![](https://wingjay.com/img/%E6%9C%89%E8%B6%A3%E7%9A%84%E6%9B%B2%E7%BA%BF%E5%9C%A8Android%E4%B8%8A%E7%9A%84%E5%AE%9E%E7%8E%B0/6.png)
-
-
 ###Reach me - wingjay
 ![](http://tp3.sinaimg.cn/1625892654/180/5739331233/1)
 
@@ -79,3 +98,4 @@ Feel free to give me advices by <mailto:yinjiesh@126.com>
 
 Thanks!
 
+![First](https://wingjay.com/img/%E6%9C%89%E8%B6%A3%E7%9A%84%E6%9B%B2%E7%BA%BF%E5%9C%A8Android%E4%B8%8A%E7%9A%84%E5%AE%9E%E7%8E%B0/ring.gif)

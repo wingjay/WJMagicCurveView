@@ -1,6 +1,8 @@
 # WJMagicCurveView
 By setting several parameters simply, You'll get a fancy Magic Curve immediately.
 
+[中文介绍，来自Android-CJJ同学](https://github.com/wingjay/WJMagicCurveView/blob/master/README_CN.md)
+
 # Let's see what it is
 ![First](https://wingjay.com/img/%E6%9C%89%E8%B6%A3%E7%9A%84%E6%9B%B2%E7%BA%BF%E5%9C%A8Android%E4%B8%8A%E7%9A%84%E5%AE%9E%E7%8E%B0/ring.gif)
 

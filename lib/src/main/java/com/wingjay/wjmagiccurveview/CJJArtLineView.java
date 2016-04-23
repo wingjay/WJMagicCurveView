@@ -14,7 +14,7 @@ import java.util.ArrayList;
 /**
  * Created by android-cjj on 4/22/16.
  * GitHub: https://github.com/android-cjj
- * Mai: 929178101@qq.com
+ * Mail: 929178101@qq.com
  * Weibo: http://weibo.com/chenjijun2011
  */
 public class CJJArtLineView extends View {

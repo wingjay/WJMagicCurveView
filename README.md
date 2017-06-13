@@ -4,6 +4,7 @@ By setting several parameters simply, You'll get a fancy Magic Curve immediately
 [中文介绍，来自Android-CJJ同学](https://github.com/wingjay/WJMagicCurveView/blob/master/README_CN.md)
 
 # Let's see what it is
+<img src="https://wingjay.com/img/%E6%9C%89%E8%B6%A3%E7%9A%84%E6%9B%B2%E7%BA%BF%E5%9C%A8Android%E4%B8%8A%E7%9A%84%E5%AE%9E%E7%8E%B0/ring.gif" width="300">
 
 <table>
   <thead>
@@ -81,7 +82,7 @@ for empty fields, use -1 as default value.
 ```
 
 # Related resource
-[有趣的曲线在Android上的实现](https://wingjay.com/2016/01/25/%E6%9C%89%E8%B6%A3%E7%9A%84%E6%9B%B2%E7%BA%BF%E5%9C%A8Android%E4%B8%8A%E7%9A%84%E5%AE%9E%E7%8E%B0/)
+[有趣的曲线在Android上的实现](http://wingjay.com/2016/01/25/%E6%9C%89%E8%B6%A3%E7%9A%84%E6%9B%B2%E7%BA%BF%E5%9C%A8Android%E4%B8%8A%E7%9A%84%E5%AE%9E%E7%8E%B0/)
 
 [Processing: 简单法则的魅力](http://mp.weixin.qq.com/s?__biz=MzA4NTc5MDU5OQ==&mid=411441608&idx=1&sn=5e846a882f58a7ba1b5312bdbeaafccf&scene=23&srcid=0120GiYhMXjmNDoN9MFQj7f5#rd)
 
@@ -90,12 +91,10 @@ for empty fields, use -1 as default value.
 
 You can get information about me and reach me in my github page: https://github.com/wingjay
 
-Blog: https://wingjay.com
+Blog: http://wingjay.com
 
 Weibo: http://weibo.com/u/1625892654
 
 Feel free to give me advices by <mailto:yinjiesh@126.com>
 
 Thanks!
-
-![First](https://wingjay.com/img/%E6%9C%89%E8%B6%A3%E7%9A%84%E6%9B%B2%E7%BA%BF%E5%9C%A8Android%E4%B8%8A%E7%9A%84%E5%AE%9E%E7%8E%B0/ring.gif)
